@@ -1,3 +1,7 @@
+#TP INSA
+Exo2bis
+Exo2
+
 # Spring PetClinic Sample Application
 
 [![Build Status](https://travis-ci.org/spring-petclinic/spring-framework-petclinic.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-framework-petclinic/) 
@@ -23,7 +27,6 @@ cd spring-framework-petclinic
 ./mvnw jetty:run-war
 # For Windows : ./mvnw.cmd jetty:run-war
 ```
-
 ### With Docker
 ```
 docker run -p 8080:8080 springcommunity/spring-framework-petclinic
